@@ -1,5 +1,7 @@
 ### Hey! Welcome 😄
 
+I obtained International business master diploma in IESEG business school in Lille, after 1 year's social experience, I decided to participated 42 Pisicine to learn IT which is more suitable for my college diploma （Information and computer science）
+
 - 💼 I'm currently looking for an internship to finish my computer science degree in 42 Paris campus
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Pythons
