@@ -20,7 +20,7 @@ I obtained International business master diploma in IESEG business school in Lil
 ![NESTJS](https://img.shields.io/badge/NESTJS-CC013A?style=for-the-badge&logo=nestjs&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/DOCKER-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0DB7ED?style=for-the-badge&logo=Kubernetes&logoColor=white)
-![BASHSCRIPT](https://img.shields.io/badge/BASHSCRIPT-00599C?style=for-the-badge&logo=BASHSCRIPT&logoColor=white)
+![BASH](https://img.shields.io/badge/BASH-00599C?style=for-the-badge&logo=BASH&logoColor=white)
 
 
 </div>
