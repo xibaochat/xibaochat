@@ -1,8 +1,5 @@
 ### Hey! Welcome 😄
 
-42 student in Paris campus
-
-
 - 💼 I'm currently looking for an internship to finish my computer science degree in 42 Paris campus
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Pythons
