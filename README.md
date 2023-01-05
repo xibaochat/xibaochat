@@ -2,10 +2,9 @@
 
 42 student in Paris campus
 
-banchelor degree in Mathematics
+bachelor degree in mathematics
 
 - 💼 I'm currently looking for an internship to finish my computer science degree
-- 👋 Hi, I’m @xibaochat
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Pythons
 - 📫 How to reach me xinwang@student.42.fr
