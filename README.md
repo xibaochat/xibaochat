@@ -2,7 +2,7 @@
 
 I obtained International business master diploma in IESEG business school in Lille, after 1 year's social experience, I decided to participated 42 Pisicine to learn IT which is more suitable for my college diploma （Information and computer science）
 
-- 💼 I'm currently looking for an internship to finish my computer science degree in 42 Paris campus
+- 💼 I'm currently looking for a junior employment back-end 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me xinwang@student.42.fr
 - 😬 Speak English, French, Japanese, Mandarin
